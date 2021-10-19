@@ -2,10 +2,9 @@
 ## Projeto - Sistema Integrado de Gestão 
 ### Fatec -  Curso de Análise e Desenvolvimento de Sistemas 
 ### Disciplina – Programação Web – Prof. Edson Saraiva de Almeida 
-### Grupo 1 - 
-George Washington - 
-John Adams - 
-Thomas Jefferson
+### Grupo 8 - 
+ANTONIO VANILSON
+DIOGO PEREIRA DE LUCENA
 #### Objetivo
 Sistemas de informação frequentemente devem ser integrados a outros sistemas para atender necessidades de negócios. A dinâmica das mudanças e inovações nos negócios frequentes 
 tem gerado uma demanda na manutenção e integração de sistemas que os departamentos de TI têm se mostrado incapazes de atender. 
